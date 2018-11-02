@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 2, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Hannah Rittenhouse)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This program converts a US denomination to another countries currency.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+( https://hlr16.github.io/lesson5_javascript2/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Continue to strengthen if and else if statements.)
+2. (Continue knowledge of git.)
+3. (Learn nested if statement.)
 
